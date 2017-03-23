@@ -53,7 +53,4 @@ var t = 'add';
 //var s = "aab"
 //var t = "xyz"
 isomorphic(s, t);
-Console Run  Clear
-"cool"
-Bin info
-just now
+
